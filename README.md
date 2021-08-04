@@ -1,3 +1,7 @@
+# Discord
+https://discord.gg/TkxfkGJc
+
+
 # Mini-Free-Loader
 A pretty good loader with multiple features listed belows
 

@@ -1,0 +1,123 @@
+﻿  Mini Free Loader.cpp
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(294,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(380,34): warning C4002: too many arguments for function-like macro invocation 'AY_OBFUSCATE'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(399,34): warning C4002: too many arguments for function-like macro invocation 'AY_OBFUSCATE'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1205,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1205,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1205,5): error C2146: syntax error: missing ';' before identifier 'jmp_label1'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1205,5): error C2065: 'jmp_label1': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1205,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1205,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1205,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1208,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1208,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1208,5): error C2146: syntax error: missing ';' before identifier 'jmp_label2'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1208,5): error C2065: 'jmp_label2': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1208,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1208,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1208,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1211,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1211,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1211,5): error C2146: syntax error: missing ';' before identifier 'jmp_label3'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1211,5): error C2065: 'jmp_label3': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1211,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1211,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1211,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1214,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1214,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1214,5): error C2146: syntax error: missing ';' before identifier 'jmp_label4'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1214,5): error C2065: 'jmp_label4': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1214,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1214,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1214,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1217,13): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1217,13): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1217,13): error C2146: syntax error: missing ';' before identifier 'jmp_label5'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1217,13): error C2065: 'jmp_label5': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1217,13): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1217,13): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1217,13): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1220,21): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1220,21): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1220,21): error C2146: syntax error: missing ';' before identifier 'jmp_label6'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1220,21): error C2065: 'jmp_label6': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1220,21): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1220,21): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1220,21): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1223,21): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1223,21): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1223,21): error C2146: syntax error: missing ';' before identifier 'jmp_label7'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1223,21): error C2065: 'jmp_label7': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1223,21): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1223,21): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1223,21): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1226,21): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1226,21): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1226,21): error C2146: syntax error: missing ';' before identifier 'jmp_label8'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1226,21): error C2065: 'jmp_label8': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1226,21): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1226,21): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1226,21): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1230,13): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1230,13): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1230,13): error C2146: syntax error: missing ';' before identifier 'jmp_label9'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1230,13): error C2065: 'jmp_label9': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1230,13): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1230,13): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1230,13): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1231,9): error C2059: syntax error: '}'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1233,13): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1233,13): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1233,13): error C2146: syntax error: missing ';' before identifier 'jmp_label10'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1233,13): error C2065: 'jmp_label10': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1233,13): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1233,13): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1233,13): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1234,1): error C2059: syntax error: '}'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1281,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1281,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1281,5): error C2146: syntax error: missing ';' before identifier 'jmp_label11'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1281,5): error C2065: 'jmp_label11': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1281,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1281,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1281,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1284,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1284,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1284,5): error C2146: syntax error: missing ';' before identifier 'jmp_label12'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1284,5): error C2065: 'jmp_label12': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1284,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1284,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1284,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1287,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1287,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1287,5): error C2146: syntax error: missing ';' before identifier 'jmp_label13'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1287,5): error C2065: 'jmp_label13': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1287,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1287,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1287,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1290,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1290,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1290,5): error C2146: syntax error: missing ';' before identifier 'jmp_label4'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1290,5): error C2065: 'jmp_label4': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1290,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1290,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1290,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1293,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1293,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1293,5): error C2146: syntax error: missing ';' before identifier 'jmp_label15'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1293,5): error C2065: 'jmp_label15': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1293,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1293,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1293,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1303,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1303,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1303,5): error C2146: syntax error: missing ';' before identifier 'jmp_label16'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1303,5): error C2065: 'jmp_label16': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1303,5): error C2146: syntax error: missing ';' before identifier '_emit'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1303,5): error C2065: '_emit': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1303,5): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1306,5): error C4235: nonstandard extension used: '__asm' keyword not supported on this architecture
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1306,5): error C2065: 'jmp': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1306,5): error C2146: syntax error: missing ';' before identifier 'jmp_label17'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1306,5): error C2065: 'jmp_label17': undeclared identifier
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(1306,5): fatal error C1003: error count exceeds 100; stopping compilation

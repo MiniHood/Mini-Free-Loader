@@ -1,0 +1,9 @@
+﻿  Mini Free Loader.cpp
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(275,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(361,34): warning C4002: too many arguments for function-like macro invocation 'AY_OBFUSCATE'
+C:\Users\Adam\source\repos\Mini Free Loader\Mini Free Loader\Mini Free Loader.cpp(380,34): warning C4002: too many arguments for function-like macro invocation 'AY_OBFUSCATE'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 425 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Mini Free Loader.vcxproj -> C:\Users\Adam\source\repos\Mini Free Loader\Release\Mini Free Loader.exe

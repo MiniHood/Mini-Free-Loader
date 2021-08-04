@@ -1216,15 +1216,6 @@ int Process(string ProcessName)
 
 
 
-void printSlowCharacters(const char* strToPrint) { // Slowly print strings... A const char* is pretty much a string
-    while (*strToPrint) {
-        cout << *strToPrint++;
-        Sleep(100);
-    }
-}
-
-
-
 
 bool is_file_exist(const char* fileName) // Returns true if a file exists
 {

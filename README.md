@@ -9,6 +9,8 @@ A pretty good loader with multiple features listed belows
 - CSGO Vac Bypass
 - Load Library Injector
 
+Compile x86 on Release with Multi Byte 
+
 Probably the most high quality protected loader your going to get for free... 
 
 # Want to make a p2c?
